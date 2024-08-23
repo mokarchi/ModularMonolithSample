@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Queries\GetAll\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Shared.Core\Shared.Core.csproj" />
   </ItemGroup>
 
